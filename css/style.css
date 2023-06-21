@@ -3,7 +3,7 @@ body {
     text-align: center;
 }
 .first {
-    
+    width: 100%
     position: relative;
     background-color: antiquewhite;
 }
@@ -40,6 +40,7 @@ hr{
     left: 40%;
 }
 .ppic{
+    border-radius: 20px 20px 20px 20px;
     width: 300px;
     height: 300px;
     margin: 100px 0;
@@ -103,6 +104,7 @@ h3{
     text-decoration: none;
   }
   .middle{
+      width:100%
     margin-top: 0;
     background-color: rgb(244, 239, 227);
   }
@@ -111,6 +113,7 @@ h3{
   }
   .last
   {
+      width: 100%
     padding: 50px ;
     background-color: #676f75;
   }
