@@ -59,12 +59,14 @@ h3{
     color: #ec9018;
 }
 .code-img{
+    border-radius: 200px 20px 200px 200px;
     width: 230px;
     height: 230px;
     float: left;
     margin: 0 50px 50px 50px;
 }
 .communication-img{
+    border-radius: 20px 200px 200px 200px;
     width: 230px;
     height: 230px;
     float: right;
