@@ -58,14 +58,16 @@ h3{
     color: #ec9018;
 }
 .code-img{
-    width: 25%;
+    width: 230px;
+    height: 230px;
     float: left;
-    margin-right: 50px;
+    margin: 0 50px 50px 50px;
 }
 .communication-img{
-    width: 25%;
+    width: 230px;
+    height: 230px;
     float: right;
-    margin-left: 50px;
+    margin: 0 50px 50px 50px;
 }
 .instaicon{
     width: 3%;
